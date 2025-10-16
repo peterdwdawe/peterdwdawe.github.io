@@ -10,7 +10,7 @@
 
 **Dither Master** is a tools suite and post-processing effect for Unity that adds a retro, pixelated feel to your game. Use the built-in hardware emulation palettes, or create your own custom palette of up to 256 colors to dial in a unique mood. Lightweight and easy to use, Dither Master is compatible with all three render pipelines, and integrates seamlessly into your existing post-processing stack. 
 
-**Available on the** [**Unity Asset Store**](https://assetstore.unity.com/packages/slug/335534) **now!**
+**Available on the [Unity Asset Store](https://assetstore.unity.com/packages/slug/335534) now!**
 
 *Source code is also available for free under a non-commercial license on [GitHub](https://github.com/peterdwdawe/unity-palette-asset).*
 
