@@ -20,17 +20,26 @@
 
 title: Peter Dawe
 email: peterdwdawe@gmail.com
-description: Portfolio
+description: >-
+  I'm Peter, a software developer based in Newfoundland, Canada. 
+  Although my educational background is in mechanical engineering, 
+  I've been working in software since 2016. My work during that time 
+  has been mostly focused on rendering and game development in Unity. 
+  Take a look at what I've been working on!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: peterdwdawe
 
 # Build settings
-# theme: jekyll-theme-minimal
-remote_theme: pages-themes/slate@v0.2.0
-plugins:
-# - jekyll-feed
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+theme: jekyll-theme-minimal
+# remote_theme: pages-themes/slate@v0.2.0
+# remote_theme: pages-themes/leap-day@v0.2.0
+# remote_theme: pages-themes/tactile@v0.2.0
+# plugins:
+# # # - jekyll-feed
+# - jekyll-remote-theme # add this line to the plugins list if you already have one
+
+logo: /assets/img/logo.png
 github:
   is_project_page: false # disables the "view on github" button
 
