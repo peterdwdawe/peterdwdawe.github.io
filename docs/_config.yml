@@ -20,12 +20,11 @@
 
 title: Peter Dawe
 email: peterdwdawe@gmail.com
-description: >-
+description: 
   I'm Peter, a software developer based in Newfoundland, Canada. 
   Although my educational background is in mechanical engineering, 
-  I've been working in software since 2016. My work during that time 
-  has been mostly focused on rendering and game development in Unity. 
-  Take a look at what I've been working on!
+  I've worked in software since 2016, mainly focused on rendering and 
+  game development in Unity. Take a look at what I've been working on!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: peterdwdawe
