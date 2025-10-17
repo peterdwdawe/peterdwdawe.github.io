@@ -12,7 +12,7 @@
 
 **Available on the [Unity Asset Store](https://assetstore.unity.com/packages/slug/335534) now!**
 
-*Source code is also available for free under a non-commercial license on [GitHub](https://github.com/peterdwdawe/unity-palette-asset).*
+*Source code is also available for non-commercial use on [GitHub](https://github.com/peterdwdawe/unity-palette-asset).*
 
 ## Tidal Shock: Off The Hook
 <div class="video-wrapper">
