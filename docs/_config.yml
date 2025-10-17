@@ -38,7 +38,7 @@ theme: jekyll-theme-minimal
 # # # - jekyll-feed
 # - jekyll-remote-theme # add this line to the plugins list if you already have one
 
-logo: /assets/img/logo.png
+logo: /assets/img/logo_256.png
 github:
   is_project_page: false # disables the "view on github" button
 
